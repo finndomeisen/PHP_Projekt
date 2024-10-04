@@ -1,0 +1,38 @@
+{
+  "1":{"question":"Coraggioso", "answer":"Mutig"},
+  "2":{"question":"Dovere", "answer":"Müssen"},
+  "3":{"question":"Giacca", "answer":"Jacke"},
+  "4":{"question":"Prigione", "answer":"Gefängnis"},
+  "5":{"question":"Spedire", "answer":"Senden"},
+
+  "6":{"question":"Diventare", "answer":"Werden"},
+  "7":{"question":"Gioia", "answer":"Freude"},
+  "8":{"question":"Legge", "answer":"Gesetz"},
+  "9":{"question":"Camminare", "answer":"Gehen"},
+  "10":{"question":"Pensare", "answer":"Denken"},
+  "11":{"question":"Vivere", "answer":"Leben"},
+  "12":{"question":"Luogo", "answer":"Ort"},
+  "13":{"question":"Guidare", "answer":"Fahren"},
+  "14":{"question":"Navigare", "answer":"Segeln"},
+  "15":{"question":"Tra / Fra", "answer":"Zwischen"},
+
+
+
+  "16":{"question":"Anno", "answer":"Jahr"},
+  "17":{"question":"Ciao", "answer":"Tschüss"},
+  "18":{"question":"Bene", "answer":"Gut"},
+  "19":{"question":"Male", "answer":"Schlecht"},
+  "20":{"question":"Autobus", "answer":"Bus"},
+
+  "21":{"question":"Bar", "answer":"Bar"},
+  "22":{"question":"Ristorante", "answer":"Restaurant"},
+  "23":{"question":"Cinema", "answer":"Kino"},
+  "24":{"question":"Zoo", "answer":"Zoo"},
+  "25":{"question":"Gratuito", "answer":"Gratis"},
+  "26":{"question":"Uno", "answer":"Eins"},
+  "27":{"question":"Quattro", "answer":"Vier"},
+  "28":{"question":"Uomo", "answer":"Mann"},
+  "29":{"question":"Naso", "answer":"Nase"},
+  "30":{"question":"E", "answer":"Und"}
+
+}
